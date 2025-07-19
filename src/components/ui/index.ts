@@ -14,4 +14,5 @@ export { default as DestinationsSection } from './GallerySection';
 export { default as TestimonialsSection } from './TestimonialsSection';
 export { default as FAQSection } from './FAQSection';
 
-export { default as FooterSection } from './FooterSection'; 
+export { default as FooterSection } from './FooterSection';
+export { default as PartnersSection } from './PartnersSection'; 

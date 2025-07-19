@@ -4,6 +4,7 @@ import ServicesSection from "./components/ui/BenefitsSection";
 import DestinationsSection from "./components/ui/GallerySection";
 import TestimonialsSection from "./components/ui/TestimonialsSection";
 import FAQSection from "./components/ui/FAQSection";
+import PartnersSection from "./components/ui/PartnersSection";
 import FooterSection from "./components/ui/FooterSection";
 import { WhatsAppButton } from "./components/ui/WhatsAppButton";
 
@@ -16,6 +17,7 @@ const LandingPage: React.FC = () => {
       <DestinationsSection />
       <ServicesSection />
       <TestimonialsSection />
+      <PartnersSection />
       <FAQSection />
       <FooterSection />
       
